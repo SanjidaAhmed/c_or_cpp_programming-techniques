@@ -1,1 +1,1 @@
-# c-c-programming-techniques
+# c or cpp programming-techniques
